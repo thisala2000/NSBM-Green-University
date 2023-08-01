@@ -1,0 +1,20 @@
+body {
+    /*  web background image  */
+    background-image: url('12.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head {
+    color: #f14747;
+}
+
+.quot {
+    width: 60%;
+    height: 50px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 15%;
+    padding-bottom: 20px;
+    border-bottom: solid rgb(6, 5, 5) thin ;
+    background-color: #91858589;
+}
